@@ -109,7 +109,12 @@ Users should exercise caution with:
 
 ## License
 
-This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the data, provided appropriate credit is given.
+## License
+
+This dataset is released under the MIT License.  
+You are free to share and adapt the data, provided appropriate credit is given.
+
+For full license text, see the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Related Literature
 
