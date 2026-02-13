@@ -119,4 +119,4 @@ This dataset is released under [CC BY 4.0](https://creativecommons.org/licenses/
 
 ## Contact
 
-Hyungju Jang — [add email or GitHub profile here]
+Hyungju Jang — https://github.com/hj8779
