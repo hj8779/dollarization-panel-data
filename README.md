@@ -126,4 +126,4 @@ For full license text, see the [MIT License](https://opensource.org/licenses/MIT
 
 ## Contact
 
-Hyungju Jang — https://github.com/hj8779
+Hyungju Jang — hyungju.jang@umontreal.ca https://github.com/hj8779
