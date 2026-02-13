@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18629367.svg)](https://doi.org/10.5281/zenodo.18629367)
 
+
+Languages: [English](./README.md) · [Français](./readmeFR.md) · [한국어](./readmeKR.md) · [日本語](./readmeJP.md)
+
+
 # dollarization-panel-data
 
 # Global Deposit Dollarization Dataset (1980–2019)
